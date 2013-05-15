@@ -11,5 +11,5 @@ in each process i create two thread one for printing the data and other
 for writing and reading
 
 In that project i use mutex and flags mehtod for the syncronization
-b/w the reading and the writinga processes and threads and i use the 
+b/w the reading and the writing processes and threads and i use the 
 interrupts while one process or thread complete its job.
